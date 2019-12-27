@@ -1,18 +1,17 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every day for the next 100 days.*
+### *I will code a minimum of one hour five days a week until I reach 100 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+January 1, 2020.
 
 ## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
-2. If I code at work, that time won't count towards the challenge.
-3. I will push code to GitHub every day so that anyone can see my progress.
+1. I will tweet about my progress every day using the hashtag #100DaysOfCode.
+2. This is meant as a learning experience and not something to stress over. I won't be too concerned when I miss a day, but that day also won't count towards my 100 days. For every day I code less than an hour, I will add another day to the end of the challenge.
+3. I will push code to GitHub every day, as applicable, so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
-
+5. My hour of "code" may include coding, reading, tutorials, or online courses.  Alexander didn't count tutorials or online courses when he did #100DaysOfCode, but I will. I completely agree you get the most out of something by actually doing it, but I think you can gain a lot from other places as well. I don't have the time right now to devote to reading and tutorials above and beyond an hour of coding. (If you've just started learning to code, read [FAQ](FAQ.md))
 
 ## Ideas to make this challenge more effective
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](log.md). It can be a link to a commit on GitHub, a link to a blog post
